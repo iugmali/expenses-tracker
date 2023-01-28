@@ -1,0 +1,7 @@
+.expense-item {
+    display: flex;
+}
+
+.expense-item__description {
+    display: flex;
+}
